@@ -17,3 +17,4 @@
       👉docker exec
       👉 add more if you want. (Optional) 
   </strong><pre>
+  <img src="Thumbnail.JPG">
